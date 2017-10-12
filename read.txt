@@ -1,3 +1,4 @@
 this is test git.
 creat a new branch is quick;
 creat a new branch is quicl and simple.
+no fast_farwd merge.
